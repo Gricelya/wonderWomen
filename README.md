@@ -1,2 +1,2 @@
 # wonderWomen
-let's started
+hallo,kita akan beljar github untuk pemula,jadi sekarang berushalah untuk bisa dan lakukan yang terbaik.
